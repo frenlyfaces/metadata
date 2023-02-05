@@ -1,0 +1,27 @@
+{
+  "name": "Frenly Faces #647",
+  "description": "Hey Frenly Face, welcome to Cantofornia",
+  "image": "https://violet-abstract-pelican-137.mypinata.cloud/ipfs/QmcLF63VN7ttGw2xqsqc3m7G3KUvPSeJd3FngTRGxygYk2/647.png",
+  "dna": "83b2d6ad6bb2370050cea552ff4e660ac06c263f",
+  "edition": 647,
+  "date": 1675274860955,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Crossed"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "OrangeShirt"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Baseball"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Moody"
+    }
+  ],
+  "compiler": "Frenly Deployer"
+}

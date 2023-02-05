@@ -1,0 +1,27 @@
+{
+  "name": "Frenly Faces #952",
+  "description": "Hey Frenly Face, welcome to Cantofornia",
+  "image": "https://violet-abstract-pelican-137.mypinata.cloud/ipfs/QmcLF63VN7ttGw2xqsqc3m7G3KUvPSeJd3FngTRGxygYk2/952.png",
+  "dna": "60c579cfb07e0627b9a426be6a4e178c2b7c6af1",
+  "edition": 952,
+  "date": 1675274989623,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "BlackTurtle"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Baseball"
+    },
+    {
+      "trait_type": "Face",
+      "value": "ChelseaHotel"
+    }
+  ],
+  "compiler": "Frenly Deployer"
+}

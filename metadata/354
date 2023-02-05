@@ -1,0 +1,27 @@
+{
+  "name": "Frenly Faces #354",
+  "description": "Hey Frenly Face, welcome to Cantofornia",
+  "image": "https://violet-abstract-pelican-137.mypinata.cloud/ipfs/QmcLF63VN7ttGw2xqsqc3m7G3KUvPSeJd3FngTRGxygYk2/354.png",
+  "dna": "f75bcc6f3dbab4ff07c69b3f2bed68ee5a0de84e",
+  "edition": 354,
+  "date": 1675274739262,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Matrica"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "CuddlesShirt"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Baseball"
+    },
+    {
+      "trait_type": "Face",
+      "value": "TwinSisters"
+    }
+  ],
+  "compiler": "Frenly Deployer"
+}

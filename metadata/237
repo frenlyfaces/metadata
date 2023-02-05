@@ -1,0 +1,27 @@
+{
+  "name": "Frenly Faces #237",
+  "description": "Hey Frenly Face, welcome to Cantofornia",
+  "image": "https://violet-abstract-pelican-137.mypinata.cloud/ipfs/QmcLF63VN7ttGw2xqsqc3m7G3KUvPSeJd3FngTRGxygYk2/237.png",
+  "dna": "e7ee2b89f9cb065cc1115f012824d1caea2c3c32",
+  "edition": 237,
+  "date": 1675274691759,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mush"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "MatricaShirt"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Baseball"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mercy"
+    }
+  ],
+  "compiler": "Frenly Deployer"
+}
